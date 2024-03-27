@@ -46,7 +46,7 @@ ul {
 
   padding: 8px 16px;
   border-radius: 8px;
-  border: transparent;
+  border: none;
   cursor: pointer;
 }
 
